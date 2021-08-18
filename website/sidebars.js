@@ -33,9 +33,7 @@ module.exports = {
       'docs/third-party-mobx',
       'docs/third-party-react-context',
     ],
-    Guides: [
-      'docs/perfect-splash-screen',
-    ],
+    Guides: ['docs/perfect-splash-screen'],
     Meta: ['docs/meta-contributing'],
   },
   api: {
